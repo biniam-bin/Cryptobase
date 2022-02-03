@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6f%2FEthereum-icon-purple.svg%2F640px-Ethereum-icon-purple.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AEthereum-icon-purple.svg&tbnid=Row2Rsx__Q1AuM&vet=12ahUKEwjT1-C0-uP1AhUNCHcKHa5aAsIQMygcegUIARCTAg..i&docid=zFtnLQV1pycIJM&w=640&h=640&q=ethereum&ved=2ahUKEwjT1-C0-uP1AhUNCHcKHa5aAsIQMygcegUIARCTAg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6f%2FEthereum-icon-purple.svg%2F640px-Ethereum-icon-purple.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AEthereum-icon-purple.svg&tbnid=Row2Rsx__Q1AuM&vet=12ahUKEwjT1-C0-uP1AhUNCHcKHa5aAsIQMygcegUIARCTAg..i&docid=zFtnLQV1pycIJM&w=640&h=640&q=ethereum&ved=2ahUKEwjT1-C0-uP1AhUNCHcKHa5aAsIQMygcegUIARCTAg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6f%2FEthereum-icon-purple.svg%2F640px-Ethereum-icon-purple.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AEthereum-icon-purple.svg&tbnid=Row2Rsx__Q1AuM&vet=12ahUKEwjT1-C0-uP1AhUNCHcKHa5aAsIQMygcegUIARCTAg..i&docid=zFtnLQV1pycIJM&w=640&h=640&q=ethereum&ved=2ahUKEwjT1-C0-uP1AhUNCHcKHa5aAsIQMygcegUIARCTAg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
